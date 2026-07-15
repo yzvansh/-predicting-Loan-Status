@@ -1,0 +1,74 @@
+# 🏦 Loan Status Prediction using Machine Learning
+
+## 📌 Project Overview
+
+This project predicts loan approval status using Machine Learning classification algorithms. The workflow includes data preprocessing, exploratory data analysis (EDA), feature engineering, feature scaling, model training, and performance evaluation. Multiple classification models were compared to identify the best-performing algorithm for accurate loan status prediction.
+
+## 🎯 Objectives
+
+* Understand the loan dataset
+* Clean and preprocess the data
+* Perform Exploratory Data Analysis (EDA)
+* Handle missing values and encode categorical features
+* Scale numerical features
+* Train and evaluate multiple classification models
+* Compare model performance and select the best model
+
+## 🛠️ Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## 🤖 Machine Learning Models
+
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Random Forest
+* Naive Bayes
+* Support Vector Machine (SVM)
+
+## 📊 Analysis Performed
+
+* Data Overview
+* Data Cleaning
+* Missing Value Analysis
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Scaling
+* Train-Test Split
+* Model Training
+* Model Evaluation
+* Model Comparison
+* Prediction
+
+## 📈 Key Insights
+
+* Data preprocessing significantly improved model performance.
+* Multiple classification models were evaluated using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+* Random Forest achieved the highest accuracy (**91.78%**) among all models.
+* Random Forest was selected as the final model for loan status prediction.
+
+## 📂 Project Structure
+
+```
+Loan-Status-Prediction/
+│── Loan_Status_Prediction.ipynb
+│── README.md
+```
+
+## 🚀 How to Run
+
+1. Clone the repository.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Install the required libraries.
+4. Run all notebook cells sequentially.
+
+## 👨‍💻 Author
+
+**Vansh**
